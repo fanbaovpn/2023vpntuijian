@@ -40,3 +40,26 @@ Date
 注意这个关键信息Connection Speed 3389 Kbps,,,
 算下来大约3m,可以了4k视频别想了卡,,不流畅
 ,图![Image text](https://github.com/fanbaovpn/2023vpntuijian/blob/main/BaiduShurufa_2023-4-28_18-52-15.png)
+但是我们也不敢保证谷歌商店的可靠信经常下架产品 
+咱们多给几个下载地址,,,
+下载地址1https://www.fanq123.cc/yunbao.crx
+下载地址2https://www.ffqopt123.com/yunbao.crx
+下载地址3https://2871407e-c749-4111-97d5-872dd9a89ada.filesusr.com/archives/ae0485_b546e30f8643628a71c3107cbe9c23.rar?
+下载地址4https://admin3999.github.io/
+挨个试试吧,,能下就下不能下载我尽力了,,,注意啊下载是crx文件的话不用解压,,
+下载是rar文件结尾的话请你解压在安装不然安装不进去
+注意事项:1上国内请关闭不要开不然反而变慢!
+
+注意事项2:如果你要用谷歌浏览器直接拖进去是不行
+
+的找到chrome://extensions/打开开发者模式,还要刷新在拖
+
+相对麻烦一点点,操作界面任然要点击浏览器右上角操作开启和关闭!!声明:保证无毒无麻烦过程可放心下载已经测试了,,
+
+ 
+
+ 
+
+ 
+
+© 2023
